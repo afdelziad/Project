@@ -190,7 +190,7 @@ int main()
             if ( Temp != NULL )
             {
                 Budget = Temp ;
-                printf("\nEstiamtion ajoutee avec succes \n");
+                printf("\nEstimation ajoutee avec succes \n");
             }
 
             break ;
